@@ -30,10 +30,9 @@ class IntroductionViewController: UIViewController {
     } else if UIScreen.main.bounds.width > 320 {
       fontSize = 20
     }
+
     /// Save font size to User Defaults
     UserDefaults.standard.set(fontSize, forKey: "FontSize")
-    
-   // guard let fontSize = fontSize else { return }
 
     introduseButton.titleLabel?.font = UIFont.systemFont(ofSize: CGFloat(fontSize))
     for label in introduseLabels {
