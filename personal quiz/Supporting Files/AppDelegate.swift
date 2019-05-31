@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  personal quiz
 //
-//  Created by Sergiy Fugol on 5/24/17.
+//  Created by Sergiy Fugol on 5/24/19.
 //  Copyright © 2019 Sergiy Fugol. All rights reserved.
 //
 

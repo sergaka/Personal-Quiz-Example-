@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2865084322A19321007A25AB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2865084222A19321007A25AB /* Images.xcassets */; };
+		2865084922A1C9C2007A25AB /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2865084822A1C9C2007A25AB /* IntroductionViewController.swift */; };
+		2865084B22A1C9F7007A25AB /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2865084A22A1C9F7007A25AB /* QuestionViewController.swift */; };
+		2865084D22A1CA0B007A25AB /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2865084C22A1CA0B007A25AB /* ResultsViewController.swift */; };
 		287FD2BD229882CC00107EFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2BC229882CC00107EFD /* AppDelegate.swift */; };
-		287FD2BF229882CC00107EFD /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2BE229882CC00107EFD /* QuestionViewController.swift */; };
 		287FD2C2229882CD00107EFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 287FD2C0229882CD00107EFD /* Main.storyboard */; };
-		287FD2C4229882CF00107EFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 287FD2C3229882CF00107EFD /* Assets.xcassets */; };
 		287FD2C7229882CF00107EFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 287FD2C5229882CF00107EFD /* LaunchScreen.storyboard */; };
 		287FD2D32298991E00107EFD /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2D22298991E00107EFD /* Question.swift */; };
 		287FD2D52298997D00107EFD /* ResponseType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2D42298997D00107EFD /* ResponseType.swift */; };
 		287FD2D7229899FA00107EFD /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2D6229899FA00107EFD /* Answer.swift */; };
 		287FD2D922989A3000107EFD /* AnimalType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2D822989A3000107EFD /* AnimalType.swift */; };
-		287FD2DB2298A54500107EFD /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2DA2298A54500107EFD /* IntroductionViewController.swift */; };
-		287FD2DD2299D23300107EFD /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287FD2DC2299D23300107EFD /* ResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2865084222A19321007A25AB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ../Images.xcassets; sourceTree = "<group>"; };
+		2865084822A1C9C2007A25AB /* IntroductionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionViewController.swift; sourceTree = "<group>"; };
+		2865084A22A1C9F7007A25AB /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		2865084C22A1CA0B007A25AB /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 		287FD2B9229882CC00107EFD /* personal quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "personal quiz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		287FD2BC229882CC00107EFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		287FD2BE229882CC00107EFD /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		287FD2C1229882CD00107EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		287FD2C3229882CF00107EFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		287FD2C6229882CF00107EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		287FD2C8229882CF00107EFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		287FD2D22298991E00107EFD /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		287FD2D42298997D00107EFD /* ResponseType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseType.swift; sourceTree = "<group>"; };
 		287FD2D6229899FA00107EFD /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 		287FD2D822989A3000107EFD /* AnimalType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalType.swift; sourceTree = "<group>"; };
-		287FD2DA2298A54500107EFD /* IntroductionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionViewController.swift; sourceTree = "<group>"; };
-		287FD2DC2299D23300107EFD /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +47,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2865084622A1C857007A25AB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2865084822A1C9C2007A25AB /* IntroductionViewController.swift */,
+				2865084A22A1C9F7007A25AB /* QuestionViewController.swift */,
+				2865084C22A1CA0B007A25AB /* ResultsViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		287FD2B0229882CC00107EFD = {
 			isa = PBXGroup;
 			children = (
@@ -68,7 +78,7 @@
 			children = (
 				287FD2CE2298972A00107EFD /* Model */,
 				287FD2CF2298973300107EFD /* View */,
-				287FD2D02298973800107EFD /* Controller */,
+				2865084622A1C857007A25AB /* Controller */,
 				287FD2D12298982100107EFD /* Supporting Files */,
 			);
 			path = "personal quiz";
@@ -94,21 +104,11 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		287FD2D02298973800107EFD /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				287FD2DA2298A54500107EFD /* IntroductionViewController.swift */,
-				287FD2BE229882CC00107EFD /* QuestionViewController.swift */,
-				287FD2DC2299D23300107EFD /* ResultsViewController.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
 		287FD2D12298982100107EFD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				287FD2BC229882CC00107EFD /* AppDelegate.swift */,
-				287FD2C3229882CF00107EFD /* Assets.xcassets */,
+				2865084222A19321007A25AB /* Images.xcassets */,
 				287FD2C8229882CF00107EFD /* Info.plist */,
 			);
 			path = "Supporting Files";
@@ -172,8 +172,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2865084322A19321007A25AB /* Images.xcassets in Resources */,
 				287FD2C7229882CF00107EFD /* LaunchScreen.storyboard in Resources */,
-				287FD2C4229882CF00107EFD /* Assets.xcassets in Resources */,
 				287FD2C2229882CD00107EFD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -186,13 +186,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				287FD2D32298991E00107EFD /* Question.swift in Sources */,
-				287FD2BF229882CC00107EFD /* QuestionViewController.swift in Sources */,
-				287FD2DB2298A54500107EFD /* IntroductionViewController.swift in Sources */,
 				287FD2D7229899FA00107EFD /* Answer.swift in Sources */,
+				2865084B22A1C9F7007A25AB /* QuestionViewController.swift in Sources */,
 				287FD2D52298997D00107EFD /* ResponseType.swift in Sources */,
 				287FD2BD229882CC00107EFD /* AppDelegate.swift in Sources */,
+				2865084922A1C9C2007A25AB /* IntroductionViewController.swift in Sources */,
 				287FD2D922989A3000107EFD /* AnimalType.swift in Sources */,
-				287FD2DD2299D23300107EFD /* ResultsViewController.swift in Sources */,
+				2865084D22A1CA0B007A25AB /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
